@@ -2,7 +2,7 @@
 
 
 This is the official repository of the MMFPSpoof Project. 
-Stay updated on the latest resources and information about the MMFPSpoof project and partially fake speech by following this repository.
+Stay updated on the latest resources and information about the MMFPSpoof project by following this repository.
 
 
 
